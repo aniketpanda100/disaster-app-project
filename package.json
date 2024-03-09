@@ -1,0 +1,21 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@rollup/plugin-dsv": "^3.0.2",
+    "terser": "^5.17.1",
+    "vite": "^4.3.3"
+  },
+  "dependencies": {
+    "@vitejs/plugin-legacy": "^4.0.2",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "dual-range-slider": "^1.0.41",
+    "jquery": "^3.6.4",
+    "ol": "latest"
+  }
+}
